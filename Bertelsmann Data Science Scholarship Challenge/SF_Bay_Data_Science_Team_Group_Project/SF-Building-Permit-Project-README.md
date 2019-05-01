@@ -1,4 +1,4 @@
-Background:
+Project Background:
 
 This was an extra credit group project for the Udacity Bertelsmann Data Science Scholarship Challenge.  In this project, I worked remotely with other students in the SF Bay area to analyze a Kaggle dataset of SF permit applications (dataset link below).
 
