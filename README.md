@@ -4,7 +4,7 @@
 
 ·	Key Learnings:  how to describe, explore, visualize, and make predictions with data, use statistical research methods, and Python and SQL basics.  
 
-·	Led a team of 6 students in a group project analyzing SF city permits.
+·	Led a team of 6 students in a group project analyzing San Francisco city permits.
 
 ·	Joined a local Meetup group to get coaching with Python.
 
